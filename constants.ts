@@ -6,12 +6,12 @@ export const REACTORS_DATA: Reactor[] = [
     name: 'IEA-R1',
     fullName: 'Reator Nuclear de Pesquisa IEA-R1',
     tagline: 'O primeiro reator nuclear do Brasil, pilar da pesquisa e produção de radioisótopos.',
-    imageUrl: 'IEA1.jpg',
+    imageUrl: '/IEA1.jpg',
     gallery: [
-      { src: 'IEA1.jpg', sourceName: 'Fonte: ABEN', sourceUrl: 'https://aben.org.br/iea-r1-reator-de-pesquisas-do-ipen-cnen-a-servico-da-sociedade-ha-65-anos/' },
-      { src: 'IEA2.jpg', sourceName: 'Fonte: Conhecer para Debater', sourceUrl: 'https://conhecerparadebater.blogspot.com/2011/08/aumento-na-potencia-do-reator-nuclear.html' },
-      { src: 'IEA3.jpg', sourceName: 'Fonte: ABEN', sourceUrl: 'https://aben.org.br/iea-r1-reator-de-pesquisas-do-ipen-cnen-a-servico-da-sociedade-ha-65-anos/' },
-      { src: 'IEA4.jpg', sourceName: 'Fonte: Acervo O Globo', sourceUrl: 'https://acervo.oglobo.globo.com/incoming/iea-r1-primeiro-reator-brasileiro-22293182' },
+      { src: '/IEA1.jpg', sourceName: 'Fonte: ABEN', sourceUrl: 'https://aben.org.br/iea-r1-reator-de-pesquisas-do-ipen-cnen-a-servico-da-sociedade-ha-65-anos/' },
+      { src: '/IEA2.jpg', sourceName: 'Fonte: Conhecer para Debater', sourceUrl: 'https://conhecerparadebater.blogspot.com/2011/08/aumento-na-potencia-do-reator-nuclear.html' },
+      { src: '/IEA3.jpg', sourceName: 'Fonte: ABEN', sourceUrl: 'https://aben.org.br/iea-r1-reator-de-pesquisas-do-ipen-cnen-a-servico-da-sociedade-ha-65-anos/' },
+      { src: '/IEA4.jpg', sourceName: 'Fonte: Acervo O Globo', sourceUrl: 'https://acervo.oglobo.globo.com/incoming/iea-r1-primeiro-reator-brasileiro-22293182' },
     ],
     sections: [
       {
@@ -56,12 +56,12 @@ export const REACTORS_DATA: Reactor[] = [
     name: 'IPEN/MB-01',
     fullName: 'Reator de Potência Zero IPEN/MB-01',
     tagline: 'Uma instalação crítica essencial para a física de reatores e o programa nuclear brasileiro.',
-    imageUrl: '4.png',
+    imageUrl: '/4.png',
     gallery: [
-      { src: '4.png', sourceName: 'Fonte: Autor' },
-      { src: '2.png', sourceName: 'Fonte: Autor' },
-      { src: '3.png', sourceName: 'Fonte: Autor' },
-      { src: '5.png', sourceName: 'Fonte: Autor' },
+      { src: '/4.png', sourceName: 'Fonte: Autor' },
+      { src: '/2.png', sourceName: 'Fonte: Autor' },
+      { src: '/3.png', sourceName: 'Fonte: Autor' },
+      { src: '/5.png', sourceName: 'Fonte: Autor' },
     ],
     sections: [
       {

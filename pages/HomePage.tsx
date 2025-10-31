@@ -7,7 +7,7 @@ const HomePage: React.FC = () => {
       {/* Hero Section */}
       <section 
         className="relative text-white text-center py-20 sm:py-32 rounded-lg overflow-hidden bg-cover bg-center" 
-        style={{ backgroundImage: `linear-gradient(rgba(10, 25, 47, 0.8), rgba(10, 25, 47, 0.8)), url('hero.jpg')` }}
+        style={{ backgroundImage: `linear-gradient(rgba(10, 25, 47, 0.8), rgba(10, 25, 47, 0.8)), url('/hero.jpg')` }}
       >
         <div className="container mx-auto px-6">
           <h1 className="text-4xl md:text-6xl font-black mb-4 animate-fade-in-down">
