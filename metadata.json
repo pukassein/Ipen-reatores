@@ -1,0 +1,5 @@
+{
+  "name": "IPEN - Reatores de Pesquisa",
+  "description": "Uma aplicação web interativa para apresentar os reatores de pesquisa IEA-R1 e IPEN/MB-01 do Instituto de Pesquisas Energéticas e Nucleares (IPEN) em São Paulo, detalhando suas características, aplicações e importância para a ciência no Brasil.",
+  "requestFramePermissions": []
+}
